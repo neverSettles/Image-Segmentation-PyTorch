@@ -3,4 +3,5 @@ matplotlib
 Pillow
 torch
 torchvision
-pydensecrf
+cython
+git+https://github.com/lucasb-eyer/pydensecrf.git
